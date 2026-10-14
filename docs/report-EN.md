@@ -2,7 +2,7 @@
 ### Software Engineering Course Project
 
 **Author:** Habibullah Haqdost
-**Supervisor:** Fahimeh Banavi *(transliteration to be confirmed)*
+**Supervisor:** Fahimeh Banavi
 **Term:** Autumn 2025 (Autumn 1404 in the Iranian calendar)
 
 > English translation of the original Persian report. Translator's notes are marked *[Note: …]*. Diagrams are in [`diagrams/`](../diagrams/); their labels are in Persian in the original.
