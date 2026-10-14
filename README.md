@@ -1,11 +1,19 @@
 # Driving School Online Booking System: Analysis & Design
 
 Software Engineering course project (B.Sc. Computer Engineering, Islamic Azad University, Autumn 2025).
-Full software-engineering documentation for an online lesson-booking system for a driving school in Toronto, Canada: requirements, UML models, database design, UI design, and a test and maintenance plan.
+Full software-engineering documentation for the online lesson-booking system of **[Orya Driving Academy](https://oryadrivingacademy.com/)**, a driving school in Toronto, Canada: requirements, UML models, database design, UI design, and a test and maintenance plan.
 
 **Author:** Habibullah Haqdost · **Supervisor:** Fahimeh Banavi
 
-> This repository contains design documentation, not application code.
+## Case study: from design to a live website
+
+I designed and built the Orya Driving Academy website, including its custom online booking feature, as a freelance project (live at [oryadrivingacademy.com](https://oryadrivingacademy.com/)). This course project documents the engineering behind it: who the users are, what the booking system must do, how it is structured, how its data is stored, and how it should be tested.
+
+| Live website | Login / registration screen |
+|---|---|
+| ![Orya home page](ui/ui-home.jpg) | ![Orya login page](ui/ui-login.jpg) |
+
+> This repository contains design documentation, not the website's source code. Some requirements (for example SMS reminders and admin reports) are planned features in the design.
 
 ## Contents
 
